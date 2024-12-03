@@ -13,5 +13,5 @@ variable "db_password" {
 }
 
 variable "vpc_id" {
-  default = "vpc-003fdd4eb65bd0b81"
+  default = "vpc-01bb5dee3529552cf"
 }
